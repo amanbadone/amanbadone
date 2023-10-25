@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amanbadone
-- 👀 I’m interested in Open Source Contributions, Competetive Programming and Anything related to Computers
+- 👀 I’m interested in Open Source Contributions, Competetive Programming, Mathematics and Anything related to Computers
 - 🌱 I’m currently learning to develop a ML model and NeuralNet Tech
 - 💞️ I’m looking to collaborate on Open Source Projects and anything that seems fun
 - 📫 How to reach me : 
